@@ -1,0 +1,340 @@
+处理 C:\Users\tankb52\_vimrc[74]..C:\Program Files 
+(x86)\Vim\vim82\syntax\syntax.vim[42]..BufRead 
+自动命令 "*.txt"..FileType 自动命令 "*"..Syntax 自动命令 
+"*"..function <SNR>4_SynSet[25]..script C:\Users\tank
+b52\vimfiles\syntax\text.vim 时发生错误:
+第   32 行:
+E401: 找不到分隔符号: "[锛屻€傦紱锛氾紒锛熴€併€娿€嬨€
+愩€戔€溾€濃€樷€欙紙锛夈€庛€忋€屻€嶃€栥€楋節锕炪€斻
+€曘€堛€夆€︼骏路鈻犫梿鈻测棌鈽呪枴鈼団柍鈼嬧槅锛勨€
+帮骏鈩冣€宦扁懘鈶碘懚鈶封懜鈶光懞鈶烩懠鈶解懢鈶库拃鈷
+佲拏鈷冣拕鈷呪拞鈷団拡鈷夆拪鈷嬧拰鈷嶁拵鈷忊拹鈷戔拻
+鈷撯挃鈷曗挅鈷椻挊鈷欌挌鈷涒憼鈶♀憿鈶ｂ懁鈶モ懄鈶р懆
+鈶┿垹銏°垻銏ｃ垽銏ャ垿銏с埁銏┾啋鈫愨啈鈫撀р剸鈼庘厾
+鈪♀參鈪ｂ叅鈪モ叇鈪р叏鈪┾叒鈪増鈮♀墵锛濃墹鈮ワ紲
+锛炩壆鈮埛卤锛嬶紞脳梅锛忊埆鈭垵鈭炩埀鈭ㄢ垜鈭忊
+埅鈭┾垐鈭碘埓鈯モ垾鈭犫寬鈯欌墝鈭解垰掳陇锟犮€嘳"
+第   42 行:
+E401: 找不到分隔符号: "[锛圿"        end="[锛塢"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Bracketed         matchgroup=CPM  
+start="[锛圿"        end="[锛塢"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   44 行:
+E401: 找不到分隔符号: "[銆奭"        end="[銆媇"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆奭"        end="[銆媇"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   45 行:
+E401: 找不到分隔符号: "[鈥淽"        end="[鈥漖"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[鈥淽"        end="[鈥漖"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   46 行:
+E401: 找不到分隔符号: "[銆嶿"        end="[銆廬"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆嶿"        end="[銆廬"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   47 行:
+E401: 找不到分隔符号: "[銆怾"        end="[銆慮"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆怾"        end="[銆慮"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   48 行:
+E401: 找不到分隔符号: "[锕漖"        end="[锕瀅"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[锕漖"        end="[锕瀅"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   49 行:
+E401: 找不到分隔符号: "[銆擼"        end="[銆昡"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆擼"        end="[銆昡"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   51 行:
+E401: 找不到分隔符号: "[銆圿"        end="[銆塢"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[銆圿"        end="[銆塢"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   52 行:
+E401: 找不到分隔符号: "[銆宂"        end="[銆峕"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[銆宂"        end="[銆峕"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   53 行:
+E401: 找不到分隔符号: "[鈥榏"        end="[鈥橾"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[鈥榏"        end="[鈥橾"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   54 行:
+E401: 找不到分隔符号: "[銆朷"        end="[銆梋"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[銆朷"        end="[銆梋"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   32 行:
+E401: 找不到分隔符号: "[锛屻€傦紱锛氾紒锛熴€併€娿€嬨€
+愩€戔€溾€濃€樷€欙紙锛夈€庛€忋€屻€嶃€栥€楋節锕炪€斻
+€曘€堛€夆€︼骏路鈻犫梿鈻测棌鈽呪枴鈼団柍鈼嬧槅锛勨€
+帮骏鈩冣€宦扁懘鈶碘懚鈶封懜鈶光懞鈶烩懠鈶解懢鈶库拃鈷
+佲拏鈷冣拕鈷呪拞鈷団拡鈷夆拪鈷嬧拰鈷嶁拵鈷忊拹鈷戔拻
+鈷撯挃鈷曗挅鈷椻挊鈷欌挌鈷涒憼鈶♀憿鈶ｂ懁鈶モ懄鈶р懆
+鈶┿垹銏°垻銏ｃ垽銏ャ垿銏с埁銏┾啋鈫愨啈鈫撀р剸鈼庘厾
+鈪♀參鈪ｂ叅鈪モ叇鈪р叏鈪┾叒鈪増鈮♀墵锛濃墹鈮ワ紲
+锛炩壆鈮埛卤锛嬶紞脳梅锛忊埆鈭垵鈭炩埀鈭ㄢ垜鈭忊
+埅鈭┾垐鈭碘埓鈯モ垾鈭犫寬鈯欌墝鈭解垰掳陇锟犮€嘳"
+第   42 行:
+E401: 找不到分隔符号: "[锛圿"        end="[锛塢"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Bracketed         matchgroup=CPM  
+start="[锛圿"        end="[锛塢"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   44 行:
+E401: 找不到分隔符号: "[銆奭"        end="[銆媇"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆奭"        end="[銆媇"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   45 行:
+E401: 找不到分隔符号: "[鈥淽"        end="[鈥漖"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[鈥淽"        end="[鈥漖"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   46 行:
+E401: 找不到分隔符号: "[銆嶿"        end="[銆廬"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆嶿"        end="[銆廬"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   47 行:
+E401: 找不到分隔符号: "[銆怾"        end="[銆慮"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆怾"        end="[銆慮"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   48 行:
+E401: 找不到分隔符号: "[锕漖"        end="[锕瀅"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[锕漖"        end="[锕瀅"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   49 行:
+E401: 找不到分隔符号: "[銆擼"        end="[銆昡"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: Quoted            matchgroup=CPM  
+start="[銆擼"        end="[銆昡"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   51 行:
+E401: 找不到分隔符号: "[銆圿"        end="[銆塢"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[銆圿"        end="[銆塢"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   52 行:
+E401: 找不到分隔符号: "[銆宂"        end="[銆峕"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[銆宂"        end="[銆峕"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   53 行:
+E401: 找不到分隔符号: "[鈥榏"        end="[鈥橾"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[鈥榏"        end="[鈥橾"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+第   54 行:
+E401: 找不到分隔符号: "[銆朷"        end="[銆梋"  
+contains=@QuoteContains,@NormalContains,@Alway
+sContains
+E475: 无效的参数: SingleQuoted      matchgroup=CPM  
+start="[銆朷"        end="[銆梋"  contains=@QuoteConta
+ins,@NormalContains,@AlwaysContains
+处理 C:\Users\tankb52\vimfiles\plugged\pangu.vim\plu
+gin\pangu.vim 时发生错误:
+第   33 行:
+E696: List 中缺少逗号: 銆?]
+
+´¦Àí C:\Users\tankb52\_vimrc[74]..C:\Program Files 
+(x86)\Vim\vim82\syntax\syntax.vim[42]..BufRead ×Զ¯ÃüÁî 
+"*.txt"..FileType ×Զ¯ÃüÁî "*"..Syntax ×Զ¯ÃüÁî "*"..function 
+<SNR>4_SynSet[25]..script C:\Users\tankb52\vimfiles\s
+yntax\text.vim ʱ·¢Éú´íÎó:
+µÚ   32 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[，。；：！？、《》【】“”‘’（）『』「」
+〖〗﹝﹞〔〕〈〉…￥·■◆▲●★□◇△○☆＄‰￥℃※±⑴⑵⑶
+⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇⒈⒉⒊⒋⒌⒍⒎⒏⒐
+⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛①②③④⑤⑥⑦⑧⑨⑩㈠㈡㈢㈣㈤
+㈥㈦㈧㈨㈩→←↑↓§№◎ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ≈≡≠＝≤
+≥＜＞≮≯∷±＋－×÷／∫∮∝∞∧∨∑∏∪∩∈∵∴⊥∥∠⌒⊙≌∽√
+°¤￠〇]"
+µÚ   42 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[（]"        end="[）]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Bracketed         matchgroup=CPM  
+start="[（]"        end="[）]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   44 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[《]"        end="[》]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[《]"        end="[》]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   45 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[“]"        end="[”]"  contains=@QuoteC
+ontains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[“]"        end="[”]"  contains=@QuoteContains,@
+NormalContains,@AlwaysContains
+µÚ   46 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[『]"        end="[』]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[『]"        end="[』]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   47 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[【]"        end="[】]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[【]"        end="[】]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   48 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[﹝]"        end="[﹞]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[﹝]"        end="[﹞]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   49 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[〔]"        end="[〕]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[〔]"        end="[〕]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   51 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[〈]"        end="[〉]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[〈]"        end="[〉]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   52 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[「]"        end="[」]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[「]"        end="[」]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   53 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[‘]"        end="[’]"  contains=@QuoteCo
+ntains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[‘]"        end="[’]"  contains=@QuoteContains,@
+NormalContains,@AlwaysContains
+µÚ   54 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[〖]"        end="[〗]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[〖]"        end="[〗]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   32 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[，。；：！？、《》【】“”‘’（）『』「」
+〖〗﹝﹞〔〕〈〉…￥·■◆▲●★□◇△○☆＄‰￥℃※±⑴⑵⑶
+⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇⒈⒉⒊⒋⒌⒍⒎⒏⒐
+⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛①②③④⑤⑥⑦⑧⑨⑩㈠㈡㈢㈣㈤
+㈥㈦㈧㈨㈩→←↑↓§№◎ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ≈≡≠＝≤
+≥＜＞≮≯∷±＋－×÷／∫∮∝∞∧∨∑∏∪∩∈∵∴⊥∥∠⌒⊙≌∽√
+°¤￠〇]"
+µÚ   42 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[（]"        end="[）]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Bracketed         matchgroup=CPM  
+start="[（]"        end="[）]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   44 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[《]"        end="[》]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[《]"        end="[》]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   45 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[“]"        end="[”]"  contains=@QuoteC
+ontains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[“]"        end="[”]"  contains=@QuoteContains,@
+NormalContains,@AlwaysContains
+µÚ   46 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[『]"        end="[』]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[『]"        end="[』]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   47 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[【]"        end="[】]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[【]"        end="[】]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   48 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[﹝]"        end="[﹞]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[﹝]"        end="[﹞]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   49 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[〔]"        end="[〕]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: Quoted            matchgroup=CPM  
+start="[〔]"        end="[〕]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   51 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[〈]"        end="[〉]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[〈]"        end="[〉]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   52 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[「]"        end="[」]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[「]"        end="[」]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+µÚ   53 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[‘]"        end="[’]"  contains=@QuoteCo
+ntains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[‘]"        end="[’]"  contains=@QuoteContains,@
+NormalContains,@AlwaysContains
+µÚ   54 ÐÐ:
+E401: ÕҲ»µ½·ָô·ûºÅ: "[〖]"        end="[〗]"  contains=@Quote
+Contains,@NormalContains,@AlwaysContains
+E475: ÎÞЧµĲÎÊý: SingleQuoted      matchgroup=CPM  
+start="[〖]"        end="[〗]"  contains=@QuoteContains
+,@NormalContains,@AlwaysContains
+
